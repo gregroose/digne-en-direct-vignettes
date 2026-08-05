@@ -462,12 +462,13 @@
   },
   {
     "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/IMG_20260805_075827.jpg",
-    "thematique": "générale",
+    "thematique": "Vie municipale & Politique",
     "mots_cles": [
       "Montée St Charles",
       "plaque de rue",
       "ruelle"
-    ]
+    ],
+    "usage_strict": "À utiliser uniquement si l'article concerne specifiquement la Montée St Charles ou ce secteur precis"
   },
   {
     "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/IMG_20260805_075836.jpg",
@@ -811,12 +812,13 @@
   },
   {
     "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/montee%20vers%20cathedrale%20saint%20jerome%20digne%20st%20charles.jpg",
-    "thematique": "générale",
+    "thematique": "Vie municipale & Politique",
     "mots_cles": [
       "montée St Charles",
       "cathédrale Saint-Jérôme",
       "ruelle"
-    ]
+    ],
+    "usage_strict": "À utiliser uniquement si l'article concerne specifiquement la Montée St Charles ou ce secteur precis"
   },
   {
     "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/palais%20des%20congres%20spectacles%20.jpg",
