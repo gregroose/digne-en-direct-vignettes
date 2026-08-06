@@ -172,16 +172,6 @@
     ]
   },
   {
-    "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/IMG_20260805_074505.jpg",
-    "thematique": "générale",
-    "mots_cles": [
-      "Bléone",
-      "rivière",
-      "montagnes",
-      "paysage"
-    ]
-  },
-  {
     "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/IMG_20260805_074659.jpg",
     "thematique": "Sécurité & Faits divers",
     "mots_cles": [
@@ -1065,11 +1055,15 @@
   },
   {
     "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/vue%20generale%20place%20de%20gaule%20digne%20.jpg",
-    "thematique": "générale",
+    "thematique": "lieu_specifique",
     "mots_cles": [
       "place de Gaulle",
       "vue générale",
       "centre-ville"
+    ],
+    "declencheurs": [
+      "place de gaulle",
+      "gassendi"
     ]
   },
   {
