@@ -249,7 +249,7 @@
   },
   {
     "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/IMG_20260805_074830.jpg",
-    "thematique": "générale",
+    "thematique": "Vie municipale & Politique",
     "mots_cles": [
       "bâtiment ancien",
       "entrée de ville"
@@ -332,7 +332,7 @@
   },
   {
     "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/IMG_20260805_075358.jpg",
-    "thematique": "générale",
+    "thematique": "Pratique & Services",
     "mots_cles": [
       "climatisation",
       "façade",
@@ -359,17 +359,23 @@
   },
   {
     "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/IMG_20260805_075519.jpg",
-    "thematique": "Culture & Événements",
+    "thematique": "lieu_specifique",
     "mots_cles": [
       "khatchkar",
       "croix arménienne",
       "monument",
       "mémoire"
+    ],
+    "declencheurs": [
+      "khatchkar",
+      "croix arménienne",
+      "croix armenienne",
+      "génocide arménien"
     ]
   },
   {
     "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/IMG_20260805_075532.jpg",
-    "thematique": "générale",
+    "thematique": "Économie & Commerces locaux",
     "mots_cles": [
       "place",
       "rue pavée",
@@ -416,7 +422,7 @@
   },
   {
     "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/IMG_20260805_075726.jpg",
-    "thematique": "générale",
+    "thematique": "Économie & Commerces locaux",
     "mots_cles": [
       "rue piétonne",
       "centre ancien",
@@ -462,27 +468,38 @@
   },
   {
     "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/IMG_20260805_075827.jpg",
-    "thematique": "Vie municipale & Politique",
+    "thematique": "lieu_specifique",
     "mots_cles": [
       "Montée St Charles",
       "plaque de rue",
       "ruelle"
     ],
-    "usage_strict": "À utiliser uniquement si l'article concerne specifiquement la Montée St Charles ou ce secteur precis"
+    "lieu": "Montée St Charles",
+    "declencheurs": [
+      "montée st charles",
+      "montee st charles",
+      "montée saint-charles"
+    ]
   },
   {
     "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/IMG_20260805_075836.jpg",
-    "thematique": "générale",
+    "thematique": "lieu_specifique",
     "mots_cles": [
       "rue Pied de Ville",
       "ruelle escaliers",
       "centre ancien",
       "patrimoine"
+    ],
+    "lieu": "Rue Pied de Ville",
+    "declencheurs": [
+      "rue pied de ville",
+      "pied-de-ville",
+      "pied de ville"
     ]
   },
   {
     "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/IMG_20260805_075856.jpg",
-    "thematique": "générale",
+    "thematique": "Économie & Commerces locaux",
     "mots_cles": [
       "rue piétonne",
       "centre-ville",
@@ -491,16 +508,20 @@
   },
   {
     "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/IMG_20260805_075929.jpg",
-    "thematique": "Culture & Événements",
+    "thematique": "lieu_specifique",
     "mots_cles": [
       "médiathèque",
       "façade",
       "rue Colonel Payan"
+    ],
+    "declencheurs": [
+      "médiathèque",
+      "mediatheque"
     ]
   },
   {
     "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/IMG_20260805_080019.jpg",
-    "thematique": "générale",
+    "thematique": "Économie & Commerces locaux",
     "mots_cles": [
       "rue piétonne",
       "noms écrivains",
@@ -511,7 +532,7 @@
   },
   {
     "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/IMG_20260805_080024.jpg",
-    "thematique": "générale",
+    "thematique": "Économie & Commerces locaux",
     "mots_cles": [
       "bâtiment moderne",
       "rue",
@@ -520,21 +541,29 @@
   },
   {
     "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/IMG_20260805_080050.jpg",
-    "thematique": "Culture & Événements",
+    "thematique": "lieu_specifique",
     "mots_cles": [
       "médiathèque",
       "François-Mitterrand",
       "entrée",
       "bibliothèque"
+    ],
+    "declencheurs": [
+      "médiathèque",
+      "mediatheque"
     ]
   },
   {
     "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/IMG_20260805_080058.jpg",
-    "thematique": "Culture & Événements",
+    "thematique": "lieu_specifique",
     "mots_cles": [
       "médiathèque",
       "façade bois",
       "vélos"
+    ],
+    "declencheurs": [
+      "médiathèque",
+      "mediatheque"
     ]
   },
   {
@@ -557,7 +586,7 @@
   },
   {
     "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/IMG_20260805_080207.jpg",
-    "thematique": "générale",
+    "thematique": "Sécurité & Faits divers",
     "mots_cles": [
       "mur dégradé",
       "façade",
@@ -575,16 +604,17 @@
   },
   {
     "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/IMG_20260805_080419.jpg",
-    "thematique": "générale",
+    "thematique": "Économie & Commerces locaux",
     "mots_cles": [
       "rideau métallique",
       "commerce fermé",
       "volet"
-    ]
+    ],
+    "usage_strict": "À utiliser uniquement pour un sujet vacance commerciale ou commerce ferme"
   },
   {
     "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/IMG_20260805_080447.jpg",
-    "thematique": "générale",
+    "thematique": "Sécurité & Faits divers",
     "mots_cles": [
       "façade dégradée",
       "volets",
@@ -627,21 +657,29 @@
   },
   {
     "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/ancienne%20boutique%20eugene%20famille%20vial.jpg",
-    "thematique": "Culture & Événements",
+    "thematique": "lieu_specifique",
     "mots_cles": [
       "ancienne boutique",
       "Eugène",
       "patrimoine",
       "histoire locale"
+    ],
+    "declencheurs": [
+      "boutique eugène",
+      "boutique eugene",
+      "famille vial"
     ]
   },
   {
     "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/ancienne%20entree%20prefecture%20digne%20historique%20belle.jpg",
-    "thematique": "Vie municipale & Politique",
+    "thematique": "lieu_specifique",
     "mots_cles": [
       "préfecture",
       "ancienne entrée",
       "bâtiment historique"
+    ],
+    "declencheurs": [
+      "préfecture"
     ]
   },
   {
@@ -655,11 +693,15 @@
   },
   {
     "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/archives%20departementales%20digne%2004.jpg",
-    "thematique": "Culture & Événements",
+    "thematique": "lieu_specifique",
     "mots_cles": [
       "archives départementales",
       "patrimoine",
       "institution"
+    ],
+    "declencheurs": [
+      "archives départementales",
+      "archives"
     ]
   },
   {
@@ -683,11 +725,18 @@
   },
   {
     "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/cathedrale%20saint%20jerome%20digne.jpg",
-    "thematique": "générale",
+    "thematique": "lieu_specifique",
     "mots_cles": [
       "cathédrale Saint-Jérôme",
       "patrimoine",
       "monument"
+    ],
+    "lieu": "cathédrale Saint-Jérôme",
+    "declencheurs": [
+      "cathédrale",
+      "cathedrale",
+      "saint-jérôme",
+      "saint jerome"
     ]
   },
   {
@@ -701,20 +750,28 @@
   },
   {
     "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/centre%20culturel%20rene%20char%20spectacles.jpg",
-    "thematique": "Culture & Événements",
+    "thematique": "lieu_specifique",
     "mots_cles": [
       "centre culturel René Char",
       "spectacles",
       "salle"
+    ],
+    "declencheurs": [
+      "centre culturel rené char",
+      "rené char",
+      "rene char"
     ]
   },
   {
     "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/conservatoire%20digne%20rayonnement%20departemental.jpg",
-    "thematique": "Culture & Événements",
+    "thematique": "lieu_specifique",
     "mots_cles": [
       "conservatoire",
       "musique",
       "enseignement artistique"
+    ],
+    "declencheurs": [
+      "conservatoire"
     ]
   },
   {
@@ -729,57 +786,82 @@
   },
   {
     "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/entree%20pieton%20prefecture%20digne%2004.jpg",
-    "thematique": "Vie municipale & Politique",
+    "thematique": "lieu_specifique",
     "mots_cles": [
       "préfecture",
       "entrée piéton",
       "administration"
+    ],
+    "declencheurs": [
+      "préfecture"
     ]
   },
   {
     "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/etoile%20de%20digne%20etoile%20saint%20vincent.jpg",
-    "thematique": "générale",
+    "thematique": "lieu_specifique",
     "mots_cles": [
       "étoile de Digne",
       "Saint-Vincent",
       "patrimoine géologique"
+    ],
+    "declencheurs": [
+      "étoile de digne",
+      "etoile de digne",
+      "étoile saint-vincent",
+      "saint-vincent"
     ]
   },
   {
     "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/facade%20batiment%20territoire%20d%20energie%20sdr.jpg",
-    "thematique": "Pratique & Services",
+    "thematique": "lieu_specifique",
     "mots_cles": [
       "territoire d'énergie",
       "façade",
       "institution"
+    ],
+    "declencheurs": [
+      "territoire d'énergie",
+      "territoire d energie"
     ]
   },
   {
     "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/facade%20nouvelle%20banque%20de%20france%20digne.jpg",
-    "thematique": "Économie & Commerces locaux",
+    "thematique": "lieu_specifique",
     "mots_cles": [
       "Banque de France",
       "façade",
       "institution financière"
+    ],
+    "declencheurs": [
+      "banque de france"
     ]
   },
   {
     "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/facade%20prefecture%20digne.jpg",
-    "thematique": "Vie municipale & Politique",
+    "thematique": "lieu_specifique",
     "mots_cles": [
       "préfecture",
       "façade",
       "administration"
+    ],
+    "declencheurs": [
+      "préfecture"
     ]
   },
   {
     "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/hotel%20centre%20vieux%20digne%20renovation.jpg",
-    "thematique": "générale",
+    "thematique": "lieu_specifique",
     "mots_cles": [
       "hôtel",
       "centre ancien",
       "rénovation",
       "patrimoine"
+    ],
+    "declencheurs": [
+      "hôtel",
+      "hotel",
+      "tourisme",
+      "hôtellerie"
     ]
   },
   {
@@ -793,45 +875,56 @@
   },
   {
     "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/interieur%20salons%20prefecture%2004.jpg",
-    "thematique": "Vie municipale & Politique",
+    "thematique": "lieu_specifique",
     "mots_cles": [
       "préfecture",
       "intérieur",
       "salons",
       "administration"
+    ],
+    "declencheurs": [
+      "préfecture"
     ]
   },
   {
     "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/maison%20de%20sante%20medical%20digne.jpg",
-    "thematique": "Santé",
+    "thematique": "lieu_specifique",
     "mots_cles": [
       "maison de santé",
       "médical",
       "soins"
+    ],
+    "declencheurs": [
+      "maison de santé"
     ]
   },
   {
     "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/montee%20vers%20cathedrale%20saint%20jerome%20digne%20st%20charles.jpg",
-    "thematique": "Vie municipale & Politique",
+    "thematique": "lieu_specifique",
     "mots_cles": [
       "montée St Charles",
       "cathédrale Saint-Jérôme",
       "ruelle"
     ],
-    "usage_strict": "À utiliser uniquement si l'article concerne specifiquement la Montée St Charles ou ce secteur precis"
+    "usage_strict": "Ne jamais tirer automatiquement par thematique. Utiliser UNIQUEMENT si l'article mentionne explicitement : Montée St Charles",
+    "lieu": "Montée St Charles"
   },
   {
     "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/palais%20des%20congres%20spectacles%20.jpg",
-    "thematique": "Culture & Événements",
+    "thematique": "lieu_specifique",
     "mots_cles": [
       "palais des congrès",
       "spectacles",
       "événements"
+    ],
+    "declencheurs": [
+      "palais des congrès",
+      "palais des congres"
     ]
   },
   {
     "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/place%20du%20mitan%20digne.jpg",
-    "thematique": "générale",
+    "thematique": "Économie & Commerces locaux",
     "mots_cles": [
       "place du Mitan",
       "centre ancien",
@@ -890,11 +983,14 @@
   },
   {
     "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/statue%20gros%20plan%20gassendi.jpg",
-    "thematique": "Culture & Événements",
+    "thematique": "lieu_specifique",
     "mots_cles": [
       "statue Gassendi",
       "patrimoine",
       "personnage historique"
+    ],
+    "declencheurs": [
+      "gassendi"
     ]
   },
   {
@@ -908,11 +1004,16 @@
   },
   {
     "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/vue%20de%20pres%20du%20kiosque%20de%20digne%20place%20de%20gaulle.jpg",
-    "thematique": "générale",
+    "thematique": "lieu_specifique",
     "mots_cles": [
       "kiosque",
       "place de Gaulle",
       "patrimoine"
+    ],
+    "lieu": "kiosque place de Gaulle",
+    "declencheurs": [
+      "kiosque",
+      "place de gaulle"
     ]
   },
   {
@@ -927,21 +1028,29 @@
   },
   {
     "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/vue%20face%20prefecture%20administration.jpg",
-    "thematique": "Vie municipale & Politique",
+    "thematique": "lieu_specifique",
     "mots_cles": [
       "préfecture",
       "administration",
       "façade"
+    ],
+    "declencheurs": [
+      "préfecture"
     ]
   },
   {
     "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/vue%20general%20de%20digne%20place%20de%20gaulle%20gassendi%20campanile.jpg",
-    "thematique": "générale",
+    "thematique": "lieu_specifique",
     "mots_cles": [
       "place de Gaulle",
       "Gassendi",
       "campanile",
       "panorama"
+    ],
+    "lieu": "statue Gassendi / place de Gaulle",
+    "declencheurs": [
+      "gassendi",
+      "place de gaulle"
     ]
   },
   {
@@ -975,11 +1084,16 @@
   },
   {
     "url": "https://raw.githubusercontent.com/gregroose/digne-en-direct-vignettes/main/IMG_20260805_164641.jpg",
-    "thematique": "Vie municipale & Politique",
+    "thematique": "lieu_specifique",
     "mots_cles": [
       "Hôtel du Département",
       "institution départementale",
       "signalétique"
+    ],
+    "declencheurs": [
+      "hôtel du département",
+      "hotel du departement",
+      "conseil départemental"
     ]
   }
 ]
